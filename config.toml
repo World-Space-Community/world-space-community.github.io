@@ -1,4 +1,4 @@
-baseURL = 'http://worldspacecommunity.org/'
+baseURL = 'https://world-space-community.github.io'
 languageCode = 'en-us'
 theme = 'graysx-hugo'
 title = 'World Space Community'
@@ -18,7 +18,7 @@ discord = "Join our Community"
 
 twitter = "#"
 facebook = "#"
-github = "https://github.com/victor-zheng-codes"
+github = "https://github.com/World-Space-Community/world-space-community.github.io"
 
 # Other
 

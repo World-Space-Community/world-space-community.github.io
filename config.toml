@@ -5,7 +5,6 @@ title = 'World Space Community'
 
 ## Site Settings
 [params]
-# logo = "assets/img/logo.webp"
 logo = "assets/img/wsc-logo-full-mid.png"
 favicon = "assets/favicon.png"
 
